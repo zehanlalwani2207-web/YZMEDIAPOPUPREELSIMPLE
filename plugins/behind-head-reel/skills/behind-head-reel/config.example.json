@@ -1,0 +1,200 @@
+{
+  "_note": "FORMAT EXAMPLE ONLY (a girls-wear shop reel). Never copy these pops, names, address or timings into a new reel: build every reel's pops from that reel's own transcript.",
+  "name": "Korean Hub Reel 1",
+  "shop": "Korean Hub",
+  "language": "hi",
+  "clips": [
+    {
+      "path": "C:/path/to/IMG_0026.MOV",
+      "in": 0,
+      "out": 51.25
+    },
+    {
+      "path": "C:/path/to/IMG_0027.MOV",
+      "in": 1.0,
+      "out": 9.2
+    }
+  ],
+  "pops": [
+    {
+      "start": 0.05,
+      "end": 1.1,
+      "kicker": "NAMASTE",
+      "giant": "HELLO JAIPUR",
+      "emoji": "👋"
+    },
+    {
+      "start": 1.12,
+      "end": 3.1,
+      "kicker": "YEH HAI APNA STORE",
+      "giant": "KOREAN HUB",
+      "emoji": "🛍️✨"
+    },
+    {
+      "start": 3.12,
+      "end": 5.0,
+      "kicker": "SHOP NO. B-47",
+      "giant": "GT CENTRAL MALL",
+      "emoji": "📍"
+    },
+    {
+      "start": 5.0,
+      "end": 6.2,
+      "kicker": "TOH",
+      "giant": "AA JAO ANDAR",
+      "emoji": "🚪🏃"
+    },
+    {
+      "start": 6.22,
+      "end": 8.1,
+      "kicker": "AGAR CHAHIYE",
+      "giant": "KOREAN STYLE",
+      "emoji": "🌸"
+    },
+    {
+      "start": 8.12,
+      "end": 10.5,
+      "kicker": "SABSE HATKE",
+      "giant": "FUNKY BOTTOMS",
+      "emoji": "👖🔥"
+    },
+    {
+      "start": 10.55,
+      "end": 12.4,
+      "kicker": "PYAARE PYAARE",
+      "giant": "DESIGNER",
+      "emoji": "💖"
+    },
+    {
+      "start": 12.42,
+      "end": 15.1,
+      "kicker": "BAHUT SAARE",
+      "giant": "FUNKY DESIGNS",
+      "emoji": "🎨🌈"
+    },
+    {
+      "start": 15.3,
+      "end": 21.4,
+      "kicker": "HAR TARAH KI",
+      "giant": "FUNKY T-SHIRTS",
+      "emoji": "👕😎"
+    },
+    {
+      "start": 21.42,
+      "end": 25.7,
+      "kicker": "HAR SIZE MEIN",
+      "giant": "ALL SIZES",
+      "emoji": "",
+      "chips": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "start": 25.72,
+      "end": 30.4,
+      "kicker": "THIS TYPE OF",
+      "giant": "CORSETS",
+      "emoji": "🎀💃"
+    },
+    {
+      "start": 30.42,
+      "end": 32.55,
+      "kicker": "HAMARE PAAS",
+      "giant": "SAB MILEGA",
+      "emoji": "✅"
+    },
+    {
+      "start": 32.6,
+      "end": 35.75,
+      "kicker": "SIZE M SE",
+      "giant": "UPTO XXXL",
+      "emoji": "",
+      "chips": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
+    },
+    {
+      "start": 36.3,
+      "end": 41.5,
+      "kicker": "ALAG HI VIBE",
+      "giant": "KOREAN PANTS",
+      "emoji": "👖✨"
+    },
+    {
+      "start": 41.55,
+      "end": 44.5,
+      "kicker": "HAR DESIGN MEIN",
+      "giant": "3-4 COLOURS",
+      "emoji": "",
+      "swatches": [
+        "#111111",
+        "#F5E6C8",
+        "#FF2E86",
+        "#1E88F0",
+        "#6B8E23"
+      ]
+    },
+    {
+      "start": 44.6,
+      "end": 49.5,
+      "kicker": "AUR CHAHIYE?",
+      "giant": "FUNKY SHIRTS",
+      "emoji": "👔🔥"
+    },
+    {
+      "start": 49.55,
+      "end": 51.25,
+      "kicker": "",
+      "giant": "DEKHTE JAO",
+      "emoji": "👀"
+    },
+    {
+      "start": 51.35,
+      "end": 53.6,
+      "kicker": "AUR BHI STOCK",
+      "giant": "KAAFI RANGE",
+      "emoji": "📦🛍️"
+    },
+    {
+      "start": 53.65,
+      "end": 55.6,
+      "kicker": "HAR TARAH KI",
+      "giant": "QUALITY",
+      "emoji": "⭐⭐⭐"
+    }
+  ],
+  "address_pill": {
+    "html": "📍 <b>KOREAN HUB</b> · B-47, GT CENTRAL MALL",
+    "start": 5.2
+  },
+  "cta": {
+    "start": 55.65,
+    "line": "Store visit karein",
+    "name": "KOREAN HUB",
+    "sub": "📍 SHOP B-47 · GT CENTRAL MALL"
+  },
+  "music": {
+    "path": "C:/path/to/song.mp3",
+    "start": 20
+  },
+  "theme": {
+    "palette": [
+      "#FF2E86",
+      "#7C4DFF",
+      "#0B9884",
+      "#F5A300",
+      "#EE4E16",
+      "#1E88F0"
+    ],
+    "kicker_style": "pill",
+    "anim": "pop",
+    "shadow": "3d"
+  }
+}

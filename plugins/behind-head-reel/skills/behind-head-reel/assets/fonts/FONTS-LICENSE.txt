@@ -1,0 +1,3 @@
+Playfair Display (Claus Eggers Sørensen), Montserrat (Julieta Ulanovsky et al.) and League Gothic (The League of Moveable Type)
+are licensed under the SIL Open Font License 1.1: https://openfontlicense.org
+Files from Fontsource (@fontsource on npm) and The League of Moveable Type.

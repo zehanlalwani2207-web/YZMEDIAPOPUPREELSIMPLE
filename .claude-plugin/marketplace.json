@@ -1,0 +1,14 @@
+{
+  "name": "yz-media-reels",
+  "owner": {
+    "name": "YZ Media"
+  },
+  "plugins": [
+    {
+      "name": "behind-head-reel",
+      "source": "./plugins/behind-head-reel",
+      "description": "Behind-Head Pop-Up reel editing style for talking-head shop/creator videos."
+    }
+  ],
+  "description": "YZ Media reel-editing skills for Claude Code: Behind-Head Pop-Up talking-head reels."
+}
